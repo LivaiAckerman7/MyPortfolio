@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2021 - 2022",
+    institution: "Lycée d'Excellence Birago Diop",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Technicien Supérieur en informatique",
+    duration: "2022 - De nos jours",
+    institution: "Ecole Supérieur Polytechnique",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Etudiant en 1ère année",
+    duration: "2022 - 2023",
+    institution: "Ecole Supérieur Polytechnique",
   }
 ]
