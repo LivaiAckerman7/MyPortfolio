@@ -1,15 +1,15 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Java Project',
+    title: 'Student',
     company: "Ecole Supérieur Polytechnique",
-    duration: "( 2023 - 2024)"
+    duration: "( 2022 - Present)"
   },
   {
     id: 2,
-    title: "Front-End Developer",
-    company: "Ecole Supérieur Polytechnique",
-    duration: "( 2022 -  2023)"
+    title: "Full Stack Junior developper",
+    company: "Ecole Supérieur Polytechnique (ESP)",
+    duration: "( 2022 -  Present)"
   },
   {
     id: 3,

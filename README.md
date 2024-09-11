@@ -115,7 +115,7 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Abdallah Moussa Diallo",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
   description: "My name is ABU SAID....",
@@ -126,9 +126,9 @@ export const personalData = {
   facebook: "https://www.facebook.com/abusaid.riyaz/",
   linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
   twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  stackOverflow: "https://stackoverflow.com/users/27292654/abdallah-moussa-diallo",
+  leetcode: "https://leetcode.com/Abdallah_Moussa_Diallo/",
+  devUsername: "Levi7",
   resume: "...",
 };
 ```
